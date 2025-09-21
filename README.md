@@ -48,7 +48,7 @@ If you find this survey useful, please cite:
 ```bibtex
 @article{li2025llm-tsad-survey,
   title={A Survey of Large Language Models for Time-Series Anomaly Detection: Methods, Challenges, and Opportunities},
-  author={Kunqi Li and Bin Liang},
+  author={Kunqi Li, Tom Pitts, and Bin Liang},
   journal={Preprint},
   year={2025}
 }
