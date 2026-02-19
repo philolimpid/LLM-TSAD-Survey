@@ -341,4 +341,10 @@ If you use this repository or find it helpful, please cite our survey:
 
 ```bibtex
 @article{li2026llm4tsad,
-  title   = {A Survey of Large La
+  title   = {A Survey of Large Language Models for Time Series Anomaly Detection: Methods, Challenges, and Future Directions},
+  author  = {Li, Kunqi and Pitts, Thomas and Liang, Bin and Huang, Chenya and Lu, Yuxi},
+  year    = {2026},
+  note    = {Available at SSRN},
+  doi     = {10.2139/ssrn.6033215},
+  url     = {https://ssrn.com/abstract=6033215}
+}
