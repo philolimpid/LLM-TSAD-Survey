@@ -31,8 +31,6 @@ This repository serves as a structured resource index for our survey on **Large 
 
 ## 📊 Survey Figures
 
-> Put your key survey figures in `figures/` and link them below.
-
 <p align="center">
   <img src="figures/framework.png" width="720" alt="LLM4TSAD Taxonomy Framework">
 </p>
@@ -54,22 +52,14 @@ This repository serves as a structured resource index for our survey on **Large 
 
 ### Method Pipelines (Optional)
 <p align="center">
-  <img src="figures/pipelines.png" width="720" alt="Method Pipelines">
+  <img src="figures/figure 4-1.pdf" width="720" alt="figure 4-1">
+</p>
+
+<p align="center">
+  <img src="figures/figure 4-2.pdf" width="720" alt="figure 4-2">
 </p>
 
 </details>
-
----
-
-## 📝 Literature Overview
-
-- **Research Papers**: 27 studies (2024–2026)  
-- **Taxonomy Levels**:  
-  - **Level 1**: LLM-Assisted / LLM-Centered / Agentic  
-  - **Level 2**: Explanation & Diagnosis / Decision Augmentation / Fusion; Text / Embeddings / Images; Agents  
-- **Last Updated**: February 2026
-
-> This repo indexes papers and links only. Papers, datasets, and code remain under their original licenses/terms.
 
 ---
 
@@ -88,14 +78,6 @@ This repository serves as a structured resource index for our survey on **Large 
 ## 1️⃣ LLM-Assisted Anomaly Detection Methods
 
 ### 1.1 LLM-Assisted Anomaly Explanation and Diagnosis
-
-<details>
-<summary><b>[2025] Anomaly Detection Using Generative Language Models and Deep Feature-Based Time Series Similarity</b></summary>
-
-- **Authors**: Lee, Junpyo; Choi, Jungmu; Min Park, Jung; Lim, Yong-Jae; Jung, Hae-Jin; Kang, Soyoung; An, Chanjung; Kwon, Jangwoo  
-- **Venue**: IEEE Access  
-- **Links**: 📖 https://doi.org/10.1109/ACCESS.2025.3604216  
-</details>
 
 <details>
 <summary><b>[2025] AI-on-RAN for Cyber Defense: An XAI-LLM Framework for Interpretable Anomaly Detection</b></summary>
@@ -181,6 +163,14 @@ This repository serves as a structured resource index for our survey on **Large 
 - **Authors**: Liu, Jun; Zhang, Chaoyun; Qian, Jiaxu; Ma, Minghua; Qin, Si; Bansal, Chetan; Lin, Qingwei; Rajmohan, Saravan; Zhang, Dongmei  
 - **Venue**: ACM SIGKDD 2025 (Proceedings of the 31st ACM SIGKDD)  
 - **Links**: 📖 https://doi.org/10.1145/3711896.3737239  
+</details>
+
+<details>
+<summary><b>[2025] Anomaly Detection Using Generative Language Models and Deep Feature-Based Time Series Similarity</b></summary>
+
+- **Authors**: Lee, Junpyo; Choi, Jungmu; Min Park, Jung; Lim, Yong-Jae; Jung, Hae-Jin; Kang, Soyoung; An, Chanjung; Kwon, Jangwoo  
+- **Venue**: IEEE Access  
+- **Links**: 📖 https://doi.org/10.1109/ACCESS.2025.3604216  
 </details>
 
 ---
