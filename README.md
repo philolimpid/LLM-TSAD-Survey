@@ -32,7 +32,7 @@ This repository serves as a structured resource index for our survey on **Large 
 ## 📊 Survey Figures
 
 <p align="center">
-  <img src="figures/framework.png" width="720" alt="LLM4TSAD Taxonomy Framework">
+  <img src="figures/202603202051_figure_4_0.pdf" width="720" alt="LLM4TSAD Taxonomy Framework">
 </p>
 
 **Figure 1**: Taxonomy of LLM-based TSAD methods by the functional role of the LLM.
@@ -40,23 +40,13 @@ This repository serves as a structured resource index for our survey on **Large 
 <details>
 <summary><b>📈 Click to view additional survey figures</b></summary>
 
-### Publication Timeline
+### Method Pipelines
 <p align="center">
-  <img src="figures/timeline.png" width="720" alt="Publication Timeline">
-</p>
-
-### Taxonomy Summary / Sankey (Optional)
-<p align="center">
-  <img src="figures/taxonomy_sankey.png" width="720" alt="Taxonomy Sankey">
-</p>
-
-### Method Pipelines (Optional)
-<p align="center">
-  <img src="figures/figure 4-1.pdf" width="720" alt="figure 4-1">
+  <img src="figures/202603241229_figure_4_1.pdf" width="720" alt="figure 4-1">
 </p>
 
 <p align="center">
-  <img src="figures/figure 4-2.pdf" width="720" alt="figure 4-2">
+  <img src="figures/202603241237_figure_4_2.pdf" width="720" alt="figure 4-2">
 </p>
 
 </details>
