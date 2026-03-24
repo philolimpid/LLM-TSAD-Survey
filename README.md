@@ -44,11 +44,14 @@ This repository serves as a structured resource index for our survey on **Large 
 <p align="center">
   <img src="figures/202603241229_figure_4_1.png" width="720" alt="figure 4-1">
 </p>
+**Figure 2**: Taxonomy of LLM-assisted time series anomaly detection (TSAD) methods.
+
+
 
 <p align="center">
   <img src="figures/202603241237_figure_4_2.png" width="720" alt="figure 4-2">
 </p>
-
+**Figure 3**: Taxonomy of LLM-centered time series anomaly detection methods.
 </details>
 
 ---
