@@ -34,9 +34,9 @@ This repository serves as a structured resource index for our survey on **Large 
 <p align="center">
   <img src="figures/202603202051_figure_4_0.png" width="720" alt="LLM4TSAD Taxonomy Framework">
 </p>
-
+<p align="center">
 **Figure 1**: Taxonomy of LLM-based TSAD methods by the functional role of the LLM.
-
+</p>
 <details>
 <summary><b>📈 Click to view additional survey figures</b></summary>
 
@@ -44,14 +44,17 @@ This repository serves as a structured resource index for our survey on **Large 
 <p align="center">
   <img src="figures/202603241229_figure_4_1.png" width="720" alt="figure 4-1">
 </p>
+<p align="center">
 **Figure 2**: Taxonomy of LLM-assisted time series anomaly detection (TSAD) methods.
-
+</p>
 
 
 <p align="center">
   <img src="figures/202603241237_figure_4_2.png" width="720" alt="figure 4-2">
 </p>
+<p align="center">
 **Figure 3**: Taxonomy of LLM-centered time series anomaly detection methods.
+</p>
 </details>
 
 ---
