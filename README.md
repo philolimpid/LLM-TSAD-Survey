@@ -18,14 +18,12 @@ This repository serves as a structured resource index for our survey on **Large 
 
 - [📄 Survey Paper](#-survey-paper)
 - [📊 Survey Figures](#-survey-figures)
-- [📝 Literature Overview](#-literature-overview)
 - [📈 Star History](#-star-history)
 - [📚 Research Papers](#-research-papers)
   - [1️⃣ LLM-Assisted Anomaly Detection Methods](#1️⃣-llm-assisted-anomaly-detection-methods)
   - [2️⃣ LLM-Centered Anomaly Detection Methods](#2️⃣-llm-centered-anomaly-detection-methods)
   - [3️⃣ LLM-Based Anomaly Detection Agents](#3️⃣-llm-based-anomaly-detection-agents)
 - [📑 Citation & Usage](#-citation--usage)
-- [📄 License](#-license)
 
 ---
 
@@ -35,7 +33,7 @@ This repository serves as a structured resource index for our survey on **Large 
   <img src="figures/202603202051_figure_4_0.png" width="720" alt="LLM4TSAD Taxonomy Framework">
 </p>
 <p align="center">
-**Figure 1**: Taxonomy of LLM-based TSAD methods by the functional role of the LLM.
+Figure 1: Taxonomy of LLM-based TSAD methods by the functional role of the LLM.
 </p>
 <details>
 <summary><b>📈 Click to view additional survey figures</b></summary>
@@ -45,7 +43,7 @@ This repository serves as a structured resource index for our survey on **Large 
   <img src="figures/202603241229_figure_4_1.png" width="720" alt="figure 4-1">
 </p>
 <p align="center">
-**Figure 2**: Taxonomy of LLM-assisted time series anomaly detection (TSAD) methods.
+Figure 2: Taxonomy of LLM-assisted time series anomaly detection (TSAD) methods.
 </p>
 
 
@@ -53,7 +51,7 @@ This repository serves as a structured resource index for our survey on **Large 
   <img src="figures/202603241237_figure_4_2.png" width="720" alt="figure 4-2">
 </p>
 <p align="center">
-**Figure 3**: Taxonomy of LLM-centered time series anomaly detection methods.
+Figure 3: Taxonomy of LLM-centered time series anomaly detection methods.
 </p>
 </details>
 
